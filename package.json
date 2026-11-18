@@ -1,0 +1,14 @@
+
+{
+  "name": "diario-king",
+  "version": "1.0.0",
+  "description": "Bot oficial Diario King",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.4.7"
+  }
+}
